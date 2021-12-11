@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "navbar-1",
+        "image": "demoImages/illu.jpg"
+    }, 
+    {
+        "id": 2,
+        "navbar": "navbar-2",
+        "image": "demoImages/special.jpg"
+    }
+]
