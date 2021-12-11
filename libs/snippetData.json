@@ -13,15 +13,6 @@
         "id": 3,
         "name": "button2",
         "image": "demoImages/special.jpg"
-    },
-    {
-        "id": 4,
-        "name": "slider",
-        "image": "demoImages/special.jpg"
-    },
-    {
-        "id": 5,
-        "name": "navsli",
-        "image": "demoImages/special.jpg"
     }
+   
 ]

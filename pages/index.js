@@ -4,17 +4,19 @@ import Fuse from "fuse.js";
 
 import Card from "../components/Card";
 import Nav from '../components/Nav'
+import Search from "../components/Search";
+
 import snipppetData from '../libs/snippetData.json'
 
-import Search from "../components/Search";
+
 
 export default function Home() {
 
   const [searchInput, setSearchInput] = useState("")
+  
   const handleSearchInputChange = (e) => {
     setSearchInput(e.target.value)
   }
-
   const searchConfig = {
     // isCaseSensitive: false,
     // includeScore: false,
@@ -32,10 +34,8 @@ export default function Home() {
       "name",
     ]
   }
-
   const fuse = new Fuse(snipppetData, searchConfig)
   
-
   return (
     <>
       <Nav />
