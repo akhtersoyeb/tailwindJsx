@@ -11,12 +11,14 @@ export default function Nav() {
                     <p className="text-2xl font-semibold text-white">TailwindJSX</p>
                 </div>
                 <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-2 text-white opacity-80">
+                    <Link href="https://rzp.io/l/tailwindjsx">
+                    <div className="flex items-center gap-2 cursor-pointer text-white opacity-80">
                         <p>Your donation is needed</p>
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
                         </svg>
                     </div>
+                    </Link>
                 </div>
             </nav>
             <div className="container px-8 mx-auto flex flex-col gap-6 items-center xl:flex-row xl:justify-between pt-16 pb-14">
@@ -29,7 +31,7 @@ export default function Nav() {
                     </div>
                 </div>
                 <div className="flex items-center gap-5">
-                    <Link href="#" >
+                    <Link href="https://rzp.io/l/tailwindjsx" >
                         <a className="text-purple-600 bg-white px-5 py-3 rounded-md">Donate Now</a>
                     </Link>
                     <Link href="#" >

@@ -1,12 +1,27 @@
 [
     {
         "id": 1,
-        "name": "navbar-1",
+        "name": "navbar",
         "image": "demoImages/illu.jpg"
     }, 
     {
         "id": 2,
-        "navbar": "navbar-2",
+        "name": "button",
+        "image": "demoImages/special.jpg"
+    },
+    {
+        "id": 3,
+        "name": "button2",
+        "image": "demoImages/special.jpg"
+    },
+    {
+        "id": 4,
+        "name": "slider",
+        "image": "demoImages/special.jpg"
+    },
+    {
+        "id": 5,
+        "name": "navsli",
         "image": "demoImages/special.jpg"
     }
 ]
