@@ -70,19 +70,17 @@ export default function SnippetLayout({ children }) {
 
                 </div>
             </nav>
-            <div>
                 {
                     isPreviewMode ? (
-                        <div className={`container xl:max-w-screen-${width} mx-auto my-24`}>
+                        <div className={` container xl:max-w-screen-${width} mx-auto my-24`}>
                             {children}
                         </div>
                     ) : (
                         <div className="">
-                        <CodeSyntaxHighlighter codeString={reactElementToJSXString(children)} />
+                            <CodeSyntaxHighlighter codeString={reactElementToJSXString(children)} />
                         </div>
                     )
                 }
-            </div>
         </>
     )
 }
