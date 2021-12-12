@@ -2,12 +2,12 @@
     {
         "id": 1,
         "name": "pricing plans 1",
-        "image": "snippetImages/pricing-plan-1.png"
+        "image": "/snippetImages/pricing-plan-1.png"
     },
     {
         "id": 2,
         "name": "newsletter 1",
-        "image": "snippetImages/newsletter-1.png"
+        "image": "/snippetImages/newsletter-1.png"
 
     }
 ]
