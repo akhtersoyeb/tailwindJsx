@@ -25,7 +25,7 @@ export default function pricing_plan_1() {
                             <button className="bg-black text-white font-medium py-2 w-full rounded-lg">Buy Hobby</button>
                         </div>
                         <div>
-                            <p className="uppercase mb-4">What's Included</p>
+                            <p className="uppercase mb-4">What&apos;s Included</p>
                             <div className="flex flex-col gap-3">
                                 <div className="flex items-start gap-2">
                                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 flex-shrink-0 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -53,7 +53,7 @@ export default function pricing_plan_1() {
                             <button className="bg-black text-white font-medium py-2 w-full rounded-lg">Buy Golden</button>
                         </div>
                         <div>
-                            <p className="uppercase mb-4">What's Included</p>
+                            <p className="uppercase mb-4">What&apos;s Included</p>
                             <div className="flex flex-col gap-3">
                                 <div className="flex items-start gap-2">
                                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 flex-shrink-0 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -87,7 +87,7 @@ export default function pricing_plan_1() {
                             <button className="bg-black text-white font-medium py-2 w-full rounded-lg">Buy Premium</button>
                         </div>
                         <div>
-                            <p className="uppercase mb-4">What's Included</p>
+                            <p className="uppercase mb-4">What&apos;s Included</p>
                             <div className="flex flex-col gap-3">
                                 <div className="flex items-start gap-2">
                                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 flex-shrink-0 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
