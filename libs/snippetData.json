@@ -1,18 +1,7 @@
 [
     {
         "id": 1,
-        "name": "navbar",
-        "image": "demoImages/illu.jpg"
-    }, 
-    {
-        "id": 2,
-        "name": "button",
-        "image": "demoImages/special.jpg"
-    },
-    {
-        "id": 3,
-        "name": "button2",
-        "image": "demoImages/special.jpg"
+        "name": "pricing plans 1",
+        "image": "snippetImages/pricing-plan-1.png"
     }
-   
 ]
