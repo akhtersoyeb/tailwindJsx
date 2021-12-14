@@ -13,5 +13,10 @@
         "id": 3,
         "name": "blog cards 1",
         "image": "/snippetImages/blog-cards-1.png"
+    },
+    {
+        "id": 4,
+        "name": "brand feature card 1",
+        "image": "/snippetImages/brand-feature-card-1.png"
     }
 ]
