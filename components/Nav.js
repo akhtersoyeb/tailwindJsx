@@ -34,11 +34,11 @@ export default function Nav() {
                 </nav>
                 <div className="container px-8 mx-auto flex flex-col gap-6 items-center xl:flex-row xl:justify-between pt-16 pb-14">
                     <div className="flex flex-col items-center xl:items-start gap-8">
-                        <h1 className="text-white text-center xl:text-left text-4xl font-medium">Beautiful hand-crafted code blocks <span className=" block opacity-60">by Sk Soyeb Akhter 😉</span></h1>
+                        <h1 className="text-white text-center xl:text-left text-4xl font-medium">Beautiful hand-crafted snippets <span className=" block opacity-60">by Sk Soyeb Akhter 😉</span></h1>
                         <div className="flex items-center gap-4 text-white ">
-                            <p>230 Icons</p>
+                            <p>Premium Snippets</p>
                             <p>MIT Licensed</p>
-                            <p>HTML + JSX support</p>
+                            <p>Tailwind + JSX</p>
                         </div>
                     </div>
                     <div className="flex items-center gap-5">
