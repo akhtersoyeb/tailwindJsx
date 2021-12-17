@@ -1,6 +1,6 @@
 import SnippetLayout from "../../components/SnippetLayout";
 
-export default function demo() {
+export default function brand_feature_card_1() {
     return (
         <SnippetLayout>
             <div className="container mx-auto py-8 flex flex-col items-center gap-4 bg-gradient-to-br from-indigo-600 to-indigo-900 text-white rounded-xl">

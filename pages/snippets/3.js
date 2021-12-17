@@ -1,6 +1,6 @@
 import SnippetLayout from "../../components/SnippetLayout";
 
-export default function demo() {
+export default function blog_cards_1() {
     return (
         <SnippetLayout>
             <div className="my-24">
