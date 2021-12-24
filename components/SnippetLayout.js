@@ -72,7 +72,7 @@ export default function SnippetLayout({ children }) {
             </nav>
                 {
                     isPreviewMode ? (
-                        <div className={` container xl:max-w-screen-${width} mx-auto my-24`}>
+                        <div className={`container xl:max-w-screen-${width} mx-auto my-24 border-4 border-dotted`}>
                             {children}
                         </div>
                     ) : (
